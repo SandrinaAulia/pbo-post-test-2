@@ -21,8 +21,8 @@ Dimana untuk ke 3 entitas tersebut bisa melakukan CRUD yakni Create (Tambah), Re
 
 **2. Deklarasi Kelas**
 - Kelas ini diberi nama Main. Kata kunci public berarti bahwa kelas ini dapat diakses dari kelas lain. Kata kunci final berarti bahwa kelas ini tidak dapat diwariskan (yaitu, tidak dapat diperluas).
-- Kelas ini diberi nama "Main." Penggunaan kata kunci "public" mengartikan bahwa kelas ini memiliki tingkat akses yang memungkinkan akses ke kelas dari berkas lainnya. Dengan kata lain, kelas "Main" dapat diakses dan digunakan dari luar kelas ini. Selain itu, kata kunci "final" digunakan untuk mendefinisikan bahwa kelas ini bersifat tetap dan tidak dapat mengalami perubahan lagi setelah deklarasi. Ini berarti kelas "Main" tidak dapat diubah atau diperluas dengan menurunkannya ke dalam kelas lain. Dengan kata lain, kelas "Main" adalah entitas yang sudah final dan tidak dapat diwariskan oleh kelas lain untuk ditambahkan atau dimodifikasi.
-
+- Kelas ini diberi nama "Main." Penggunaan kata kunci "public" mengartikan bahwa kelas ini memungkinkan akses ke kelas dari berkas lainnya. Dengan kata lain, kelas "Main" dapat diakses dan digunakan dari luar kelas ini. Selain itu, kata kunci "final" digunakan untuk mendefinisikan bahwa kelas ini bersifat tetap dan tidak dapat mengalami perubahan setelah deklarasi. Ini berarti kelas "Main" tidak dapat diubah atau diperluas dengan menurunkannya ke dalam kelas lain.
+  
 **3. Pengulangan Menu**
 - Ini berarti bahwa kode yang ada dalam loop while true akan terus dieksekusi secara berulang tanpa henti sampai program dihentikan secara manual oleh pengguna.
 
@@ -50,13 +50,17 @@ Dimana untuk ke 3 entitas tersebut bisa melakukan CRUD yakni Create (Tambah), Re
 ## Class Child
 
 ### Dokter 
+
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/1a47350e-5a4b-4d64-ba29-5664a939544c)
 
 ### Perawat 
-![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/1cffaa10-7256-4f3e-a239-0763fc3fcf85)
-![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/ab01716b-23cd-42e9-8516-7bd3fa2363e3)
+
+![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/f3a3b021-b601-499d-85f3-b537a39f5b4d)
 
 ### Pasien
+
+![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/1cffaa10-7256-4f3e-a239-0763fc3fcf85)
+![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/ab01716b-23cd-42e9-8516-7bd3fa2363e3)
 
 ### CRUD 
 
