@@ -130,11 +130,13 @@ Gambar dibawah ini merupakan hasil terbaru dari pengeditan nama pasien yang sebe
 
 ### DELETE
 **1. Hapus Dokter**
+
 Gambar dibawah ini merupakan output jika data dokter yang telah dimasukkan di awal tadi dihapus.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/c7e3b0fc-1f6b-4355-b363-60f9d2e07158)
 
 **2. Hapus Perawat**
+
 Gambar dibawah ini merupakan output jika data perawat yang telah dimasukkan di awal tadi dihapus.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/abc364b2-eca2-4b7b-b351-a8fe59e5c2e9)
