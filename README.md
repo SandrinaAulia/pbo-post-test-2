@@ -4,7 +4,7 @@
 
 **NIM   : 2209116003**
 
-**Kelas : Sistem Informasi A 2022** 
+**Kelas : Sistem Informasi A 2022**  
 
 ## Tema  
 Pada Post Test ke 2 kali ini saya mengambil tema "Rumah Sakit" yang memiliki class/entitas yakni :
