@@ -78,16 +78,19 @@ Kelas Pasien berfungsi sebagai representasi objek pasien. Ini tidak terkait deng
 ### CRUD 
 ### CREATE
 **1. Dokter**
+
 Gambar dibawah ini  merupakan hasil dari tambah dokter (opsi 1) yang mana nama nya Sandrina dan spesialisnya adalah Orthopedi.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/3c6bfe6e-7aee-4d7c-b15d-706c34d9c58d)
 
 **2. Perawat**
+
 Gambar dibawah ini merupakan hasil dari tambah perawat (opsi 2) yang mana nama nya Ikhsan dan shift nya adalah Pagi.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/bd4e30de-2db9-4955-b16d-c0e5182bcad1)
 
 **3. Pasien**
+
 Gambar dibawah ini merupakan hasil dari tambah pasien (opsi 3) yang mana nama nya Tia dan keluhannya adalah Batuk.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/06befa96-d90b-4100-a7fb-54c0d6a5a6d4)
@@ -95,27 +98,32 @@ Gambar dibawah ini merupakan hasil dari tambah pasien (opsi 3) yang mana nama ny
 
 ### READ
 **1. Pegawai (Dokter, Perawat)**
+
 Gambar dibawah ini menampilkan hasil dari create pada opsi 1 dan 2 tadi bisa diliat outputnya sama dengan yang diatas.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/b29276cd-da30-4a8b-af10-fb0d275f858d)
 
 **2. Pasien**
+
 Gambar dibawah ini menampilkan hasil dari create pada opsi 3 tadi bisa diliat outputnya sama dengan yang diatas.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/f5dc3286-77af-4c35-8865-f0f33e103a16)
 
 ### UPDATE 
 **1. Update Dokter**
+
 Gambar dibawah ini merupakan hasil terbaru dari pengeditan nama dokter yang sebelumnya Sandrina dan berspesialisasi Orthopedi berubah menjadi dokter Aulia spesialis Gigi.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/eb0a3004-ce5e-479c-a41b-139b378ccd48)
 
 **2. Update Perawat**
+
 Gambar dibawah ini merupakan hasil terbaru dari pengeditan nama perawat yang sebelumnya Ikhsan dan mempunyai shift Pagi berubah menjadi perawat Iklam dan mempunyai shift Malam.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/cb018358-0e56-46df-9216-bf8587170440)
 
 **3. Update Pasien**
+
 Gambar dibawah ini merupakan hasil terbaru dari pengeditan nama pasien yang sebelumnya Tia dan mempunyai keluhan Batuk berubah menjadi pasien Sagita dan mempunyai keluhan Demam.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/fa13dfd8-bc3a-4a08-a9e8-2a7ad898a705)
@@ -132,27 +140,32 @@ Gambar dibawah ini merupakan output jika data perawat yang telah dimasukkan di a
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/abc364b2-eca2-4b7b-b351-a8fe59e5c2e9)
 
 **3. Hapus Pasien**
+
 Gambar dibawah ini merupakan output jika data pasien yang telah dimasukkan di awal tadi dihapus.
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/68f10e64-8008-4725-933c-c8194faa6e7d)
 
 ### ARRAY LIST KOSONG
 **1. Pegawai**
+
 Gambar dibawah adalah output jika ArrayList Pegawai masih belum terisi oleh objek
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/a9f77d0b-621e-4f95-a628-b03da616e11b)
 
 **2. Pasien**
+
 Gambar dibawah adalah output jika ArrayList Pasien masih belum terisi oleh objek
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/d06ffb85-2181-43a3-8413-cd50500b2500)
 
 ### SALAH MASUKKAN (INPUT)
+
 Gambar dibawah adalah output jika user salah menginputkan angka ke dalam halaman utama 
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/8a2f37fd-1a94-4dce-9ed5-76d07487b371)
 
 ### EXIT 
+
 Gambar dibawah adalah jika user memilih opsi 8 yakni keluar dari program
 
 ![image](https://github.com/SandrinaAulia/pbo-post-test-2/assets/121924124/86ab92ed-1330-4b6b-b97a-dadbd4c839cc)
