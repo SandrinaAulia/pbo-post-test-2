@@ -1,0 +1,5 @@
+com\child\Dokter.class
+com\child\Perawat.class
+com\parent\Pegawai.class
+com\child\Pasien.class
+com\utama\Main.class
